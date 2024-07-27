@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Official-7amdy
+- 👋 Hi, I’m Ahmed Hamdy
 
 - 👀 I’m interested in:
   - Business informatics and leveraging data to drive business decisions
