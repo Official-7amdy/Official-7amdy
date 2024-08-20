@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning:
   - Flutter for mobile app development
   - Advanced data science techniques and tools
-  - Developing a SaaS ERP web app
+  - Developing a SaaS ERP app
   - Creating a reservation system mobile app named 'Shamil'
   - Integrating NFC technology for environmental sustainability
 
