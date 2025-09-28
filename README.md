@@ -1,33 +1,48 @@
-- 👋 Hi, I’m Ahmed Hamdy
+# Ahmed Hamdy | Full-Stack Developer & Entrepreneur
 
-- 👀 I’m interested in:
-  - Business informatics and leveraging data to drive business decisions
-  - Data science and machine learning
-  - Mobile app development with Flutter
-  - Startups and entrepreneurship
-  - SaaS applications and innovative business solutions
+🚀 **Business Informatics graduate (Top of Class, GPA 3.8/4.0)** with a strong entrepreneurial mindset and a passion for building and scaling technology ventures.
 
-- 🌱 I’m currently learning:
-  - Flutter for mobile app development
-  - Advanced data science techniques and tools
-  - Developing a SaaS ERP app
-  - Creating a reservation system mobile app named 'Shamil'
-  - Integrating NFC technology for environmental sustainability
+I specialize in **full-stack development** with a focus on **Flutter** and modern **SaaS architecture**.  
+I enjoy leading projects from concept to launch, blending technical innovation with solid business strategy to create solutions that are **scalable**, **user-friendly**, and **market-ready**.
 
-- 💞️ I’m looking to collaborate on:
-  - Data science projects that require innovative solutions
-  - Mobile app development, especially with Flutter
-  - Business solutions that involve SaaS platforms
-  - Startups and entrepreneurial ventures
-  - Projects that aim to integrate technology for better user experiences
+---
 
-- 📫 How to reach me:
-  - Email: [ahmedhaboelela34@gmail.com]
-  - LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/ahmed-hamdy-852872210/)]
+## 🛠️ Tech Stack & Skills
 
-- 😄 Pronouns: He/Him
+**Mobile & Cross-Platform**  
+Flutter • Dart  
 
-- ⚡ Fun fact: 
-  - I love exploring new business ideas and am passionate about using technology to solve real-world problems.
-  - I am currently working on 'Shamil', an app that helps users find and subscribe to nearby services, and another app for managing client payments seamlessly.
-  - I enjoy learning new technologies and applying them to create efficient and impactful solutions.
+**Web Technologies**  
+React • JavaScript (ES6+) • Supabase • HTML5 • CSS3  
+
+**Web & CMS**  
+WordPress • WooCommerce  
+
+**Business & Management**  
+Team Leadership • Project Management • Business Planning • Team Engagement  
+
+---
+
+## 🔭 Current Ventures & Projects
+
+### 🎓 AlNa7awy Platform – *Founder & Product Lead* (Aug 2025 – Present)
+A gamified Arabic grammar learning platform for preparatory students built with **React** and **Supabase**.  
+Key Features:
+- “ساحة الأبطال (Heroes Arena)” real-time student challenge mode  
+- Scalable question banks and interactive gamification for higher engagement
+
+### 🏢 Shamil Technologies – *Founder & Lead Developer* (2023 – Present)
+A software house focused on building **scalable SaaS and business solutions**.  
+Highlights:
+- Multi-tenant platforms using **Flutter** for B2B (desktop) and B2C (mobile) clients  
+- **RFID/NFC integration** for automated, ticketless check-ins  
+- Customizable subscription model allowing businesses to pay only for chosen features
+
+---
+
+## 📫 How to Reach Me
+- **Email:** [ahmedhaboelela34@gmail.com](mailto:ahmedhaboelela34@gmail.com)  
+
+---
+
+💡 *“Building technology is easy—creating value through it is where the challenge lies.”*
